@@ -39,7 +39,7 @@ real low_pass_filter(real x, real alpha, int init)
     /* TODO: implement per the spec above */
 }
 
-/* ------------------------- Demo ------------------------- */
+/* ------------------------- Testing your code here by compiling and running and check the terminal output ------------------------- */
 int main(void)
 {
     const real alpha = 0.10;
